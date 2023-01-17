@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hej och välkommen 👋
+Detta GitHub-konto har skapats inom ramen för min utbildning till webbutvecklare.
+
+Sedan höstterminen år 2022 studerar jag programmet [Webbutveckling, 120 hp](https://www.miun.se/utbildning/program/data-och-it/webbutveckling/) vid [Mittuniversitetet](https://www.miun.se/) i Sundsvall. Det är en utbildning som fokuserar på teoretiska och praktiska färdigheter och som har stor tyngdpunkt på webbutveckling med moderna hjälpmedel och språk. Utbildningen ges på distans, vilket passar mig väldigt bra eftersom jag är bosatt i Örebro.
+
+Jag är sedan tidigare utbildad socionom och har arbetat inom socialtjänsten i flera år. Med tiden upptäckte jag dock att min kreativitet och intresset för teknik ville få ta större plats i mitt liv än vad jag hade gett utrymme för. Längtan efter att få skapa, designa och utveckla, förde mig därför in på yrkesområdet webbutveckling.
 
 <!--
 **peing22/peing22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
